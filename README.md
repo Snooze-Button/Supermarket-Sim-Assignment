@@ -1,7 +1,7 @@
-# Supermarket-Sim-Assignment
+# Supermarket-Sim-Assignment (Header)
 This is for my Advanced Programming Individual Assignment.
 
-## Scenario:
+## Scenario: (Subheader)
 A large supermarket chain wishes to develop an in-house supermarket simulation to help optimise the flow of customers through the store. 
 
 ## Aim: 
@@ -26,3 +26,5 @@ The software artefact will support the behaviour of a typical shopping experienc
 •	serve the next customer in the queue; 
 •	log each product in the basket 
 •	and wait for the next customer
+
+
