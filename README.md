@@ -1,7 +1,7 @@
-# Supermarket-Sim-Assignment (Header)
+# Supermarket-Sim-Assignment 
 This is for my Advanced Programming Individual Assignment.
 
-## Scenario: (Subheader)
+## Scenario: 
 A large supermarket chain wishes to develop an in-house supermarket simulation to help optimise the flow of customers through the store. 
 
 ## Aim: 
