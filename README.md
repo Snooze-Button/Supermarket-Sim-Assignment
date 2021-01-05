@@ -6,7 +6,7 @@ A large supermarket chain wishes to develop an in-house supermarket simulation t
 
 ## Aim: 
 Make it easy for key staff within the organisation to represent the components of a supermarket scenario and run a simulation based
-on various configurations in order to maximise the efficiency of the store.
+on various configurations in order to maximise the efficiency of the store. Show the simulation result as ThroughtPut R = I/T.
 
 The software artefact will support the behaviour of a typical shopping experience: 
 
