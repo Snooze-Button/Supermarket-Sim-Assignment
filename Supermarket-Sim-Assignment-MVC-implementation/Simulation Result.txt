@@ -1,0 +1,731 @@
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 4 | Average 80 | Max 131
+
+Total Shoppers Entered: 3200 | Total Shoppers Served: 3180
+
+Simulation's Throughput: 53.00 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 0 | Max 1
+
+Total Shoppers Entered: 59 | Total Shoppers Served: 59
+
+Simulation's Throughput: 0.98 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 2 | Average 88 | Max 150
+
+Total Shoppers Entered: 3083 | Total Shoppers Served: 3065
+
+Simulation's Throughput: 51.08 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 3 | Average 78 | Max 130
+
+Total Shoppers Entered: 3528 | Total Shoppers Served: 3493
+
+Simulation's Throughput: 58.22 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 3 | Average 76 | Max 518
+
+Total Shoppers Entered: 3605 | Total Shoppers Served: 1856
+
+Simulation's Throughput: 30.93 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 78 | Max 536
+
+Total Shoppers Entered: 3604 | Total Shoppers Served: 2281
+
+Simulation's Throughput: 38.02 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 2 | Average 65 | Max 504
+
+Total Shoppers Entered: 3604 | Total Shoppers Served: 1598
+
+Simulation's Throughput: 26.63 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 80 | Max 499
+
+Total Shoppers Entered: 3618 | Total Shoppers Served: 997
+
+Simulation's Throughput: 16.62 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 2 | Average 114 | Max 225
+
+Total Shoppers Entered: 3614 | Total Shoppers Served: 3481
+
+Simulation's Throughput: 58.02 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 81 | Max 394
+
+Total Shoppers Entered: 3441 | Total Shoppers Served: 3138
+
+Simulation's Throughput: 52.30 customers per minute 
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 3 | Max 8
+
+Total Shoppers Entered: 502 | Total Shoppers Served: 501
+
+Simulation's Throughput: 8.35 customers per minute
+Total amount of products sold : 4849 items
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 104 | Max 521
+
+Total Shoppers Entered: 3560 | Total Shoppers Served: 3152
+
+Simulation's Throughput: 52.53 customers per minute
+Total amount of products sold : 30455 items
+ 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 3 | Average 76 | Max 128
+
+Total Shoppers Entered: 3606 | Total Shoppers Served: 3597
+
+Total amount of products sold : 34722 items
+
+Simulation's Throughput: 59.95 customers per minute 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 2 | Average 61 | Max 489
+
+Total Shoppers Entered: 3609 | Total Shoppers Served: 1119
+
+Total Products Sold : 10956
+
+Simulation's Throughput: 18.65 customers per minute 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 3 | Average 5 | Max 10
+
+Total Shoppers Entered: 503 | Total Shoppers Served: 503
+
+Total Products Sold : 4777
+
+Simulation's Throughput: 8.38 customers served per minute 
+ 
+<< Simulation results >>
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 3 | Max 8
+
+Total Shoppers Entered: 500 | Total Shoppers Served: 500
+
+Total Products Sold : 4865
+
+Simulation's Throughput: 8.33 customers served per minute 
+
+ 
+ 
+ Simulation results  ( Wed Jan 20 12:45:10 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 2 | Average 83 | Max 497
+
+Total Shoppers Entered: 3603 | Total Shoppers Served: 512
+
+Total Products Sold : 4863
+
+Simulation's Throughput: 8.53 customers served per minute 
+ 
+
+
+ Simulation results ( Wed Jan 20 12:49:01 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 3 | Average 81 | Max 144
+
+Total Shoppers Entered: 3616 | Total Shoppers Served: 3604
+
+Total Products Sold : 34866
+
+Simulation's Throughput: 60.07 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 13:40:42 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 10 | Average 0 | Max 0
+
+Total Shoppers Entered: 3602 | Total Shoppers Served: 3602
+
+Total Products Sold : 35167
+
+Simulation's Throughput: 60.03 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 13:46:39 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 10 | Average 0 | Max 0
+
+Total Shoppers Entered: 3604 | Total Shoppers Served: 3604
+
+Total Products Sold : 35793
+
+Simulation's Throughput: 60.07 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 13:48:47 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 10 | Average 0 | Max 0
+
+Total Shoppers Entered: 3619 | Total Shoppers Served: 3619
+
+Total Products Sold : 35733
+
+Simulation's Throughput: 60.32 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 13:49:58 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 1 | Average 6 | Max 9
+
+Total Shoppers Entered: 3605 | Total Shoppers Served: 39
+
+Total Products Sold : 214
+
+Simulation's Throughput: 0.65 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:41:09 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 10 | Average 0 | Max 0
+
+Total Shoppers Entered: 59 | Total Shoppers Served: 23
+
+Total Products Sold : 237
+
+Simulation's Throughput: 0.38 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:48:28 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 10 | Average 0 | Max 0
+
+Total Shoppers Entered: 148 | Total Shoppers Served: 1
+
+Total Products Sold : 5
+
+Simulation's Throughput: 0.02 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:49:31 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Queue Size: Min 10 | Average 0 | Max 0
+
+Total Shoppers Entered: 159 | Total Shoppers Served: 1
+
+Total Products Sold : 12
+
+Simulation's Throughput: 0.02 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:51:09 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+
+Total Shoppers Entered: 48 | Total Shoppers Served: 1
+
+Total Products Sold : 1
+
+Simulation's Throughput: 0.02 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:52:06 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 494 | Total Shoppers Served: 494
+
+Total Products Sold : 4653
+
+Simulation's Throughput: 8.23 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:54:00 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 2584 | Total Shoppers Served: 2584
+
+Total Products Sold : 25229
+
+Simulation's Throughput: 43.07 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:55:12 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 1615 | Total Shoppers Served: 1615
+
+Total Products Sold : 15902
+
+Simulation's Throughput: 26.92 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 14:59:14 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 2694 | Total Shoppers Served: 2694
+
+Total Products Sold : 26381
+
+Simulation's Throughput: 44.90 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:25:23 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 59 | Total Shoppers Served: 59
+
+Total Products Sold : 564
+
+Simulation's Throughput: 0.98 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:36:02 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 59 | Total Shoppers Served: 59
+
+Total Products Sold : 647
+
+Simulation's Throughput: 0.98 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:39:37 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 505 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:40:40 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 506 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:40:56 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 58 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:43:29 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 507 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:47:37 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 503 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:49:23 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 500 | Total Shoppers Served: 500
+
+Total Products Sold : 4978
+
+Simulation's Throughput: 8.33 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:52:04 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 59 | Total Shoppers Served: 30
+
+Total Products Sold : 274
+
+Simulation's Throughput: 0.50 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:54:03 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 507 | Total Shoppers Served: 32
+
+Total Products Sold : 288
+
+Simulation's Throughput: 0.53 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 18:58:40 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 507 | Total Shoppers Served: 28
+
+Total Products Sold : 256
+
+Simulation's Throughput: 0.47 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:03:18 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 509 | Total Shoppers Served: 29
+
+Total Products Sold : 263
+
+Simulation's Throughput: 0.48 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:14:17 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 506 | Total Shoppers Served: 413
+
+Total Products Sold : 4064
+
+Simulation's Throughput: 6.88 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:15:14 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 505 | Total Shoppers Served: 347
+
+Total Products Sold : 3459
+
+Simulation's Throughput: 5.78 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:23:01 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 506 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:23:20 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 507 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:27:05 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 504 | Total Shoppers Served: 0
+
+Total Products Sold : 0
+
+Simulation's Throughput: 0.00 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:28:23 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 505 | Total Shoppers Served: 36
+
+Total Products Sold : 307
+
+Simulation's Throughput: 0.60 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:31:00 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 508 | Total Shoppers Served: 32
+
+Total Products Sold : 299
+
+Simulation's Throughput: 0.53 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:33:51 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 503 | Total Shoppers Served: 29
+
+Total Products Sold : 297
+
+Simulation's Throughput: 0.48 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:39:08 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3604 | Total Shoppers Served: 46 | Total Products Sold : 341
+
+Max Number of Tills 10 | Max Queue Size 10
+
+Simulation's Throughput: 0.77 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:40:31 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3604 | Total Shoppers Served: 37 | Total Products Sold : 318
+
+Max Number of Tills 10 | Max Queue Size 10
+
+Simulation's Throughput: 0.62 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:42:53 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3611 | Total Shoppers Served: 40 | Total Products Sold : 327
+
+Max Number of Tills 100 | Max Queue Size 10
+
+Simulation's Throughput: 0.67 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:44:41 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3604 | Total Shoppers Served: 38 | Total Products Sold : 295
+
+Max Number of Tills 1 | Max Queue Size 1
+
+Simulation's Throughput: 0.63 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 19:47:40 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3617 | Total Shoppers Served: 33 | Total Products Sold : 309
+
+Max Number of Tills 100 | Max Queue Size 100
+
+Simulation's Throughput: 0.55 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 20:02:31 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3612 | Total Shoppers Served: 3522 | Total Products Sold : 35331
+
+Max Number of Tills 100 | Max Queue Size 100
+
+Simulation's Throughput: 58.70 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 20:05:07 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3612 | Total Shoppers Served: 46 | Total Products Sold : 299
+
+Max Number of Tills 1 | Max Queue Size 10
+
+Simulation's Throughput: 0.77 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 20:13:54 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3606 | Total Shoppers Served: 71 | Total Products Sold : 515
+
+Max Number of Tills 10 | Max Queue Size 1
+
+Simulation's Throughput: 1.18 customers served per minute 
+ 
+
+ Simulation results ( Wed Jan 20 20:14:24 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3611 | Total Shoppers Served: 1144 | Total Products Sold : 11027
+
+Max Number of Tills 10 | Max Queue Size 15
+
+Simulation's Throughput: 19.07 customers served per minute 
+ 
+
+ Simulation results ( Thu Jan 21 01:07:19 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 481 | Total Shoppers Served: 478 | Total Products Sold : 4665
+
+Max Number of Tills 100 | Max Queue Size 10
+
+Simulation's Throughput: 7.97 customers served per minute 
+ 
+
+ Simulation results ( Thu Jan 21 04:20:38 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3607 | Total Shoppers Served: 877 | Total Products Sold : 8308
+
+Max Number of Tills 10 | Max Queue Size 10
+
+Simulation's Throughput: 14.62 customers served per minute 
+ 
+
+ Simulation results ( Thu Jan 21 04:21:55 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 59 | Total Shoppers Served: 59 | Total Products Sold : 609
+
+Max Number of Tills 5 | Max Queue Size 10
+
+Simulation's Throughput: 0.98 customers served per minute 
+ 
+
+ Simulation results ( Thu Jan 21 07:58:47 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 498 | Total Shoppers Served: 496 | Total Products Sold : 4722
+
+Max Number of Tills 10 | Max Queue Size 10
+
+Simulation's Throughput: 8.27 customers served per minute 
+ 
+
+ Simulation results ( Thu Jan 21 08:33:08 GMT 2021 )
+
+Simulation Duration: 1 hour.
+
+Total Shoppers Entered: 3609 | Total Shoppers Served: 1933 | Total Products Sold : 18875
+
+Max Number of Tills 20 | Max Queue Size 10
+
+Simulation's Throughput: 32.22 customers served per minute 
+ 
